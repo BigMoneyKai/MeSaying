@@ -1,7 +1,0 @@
-Package: hubbysay
-Version: 1.0.0
-Section: base
-Priority: optional
-Architecture: arm64
-Maintainer: BigMoneyKai
-Description: A simple ASCII print terminal tool
