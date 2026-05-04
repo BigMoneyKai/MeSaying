@@ -1,16 +1,18 @@
 # MeSaying
-**Introduce**
+
+## `Introduce`
 MeSaying is a simple ascii word-drawing program that can convert words you input into ascii art font
 
-**Function**
+## `Function`
 MeSaying currently can print all upper and lower cased letters and some symbols, including exclaim, comma and period.
 
-**Install**
+## `Install`
+You can install it from published on github, we will look forward to create out ppa later
 
-**Build & Use**
+## `Build & Use`
 ```C++
 clang hubbysay.c -o main && ./main -w "your words" 
 ```
 
-**License**
+## `License`
 MIT License
