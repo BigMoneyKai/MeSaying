@@ -10,8 +10,13 @@ MeSaying currently can print all upper and lower cased letters and some symbols,
 You can install it from published on github, we will look forward to create out ppa later
 
 ## `Build & Use`
-```C++
-clang hubbysay.c -o main && ./main -w "your words" 
+- Build
+```Build
+clang hubbysay.c -o mesaying
+```
+- Use
+```
+mesaying -w "your words"
 ```
 
 ## `License`
